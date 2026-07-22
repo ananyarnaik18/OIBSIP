@@ -13,12 +13,13 @@ code (Jupyter Notebook), a README explaining the project, and relevant output sc
 | Task 1 | [DataAnalytics-L1-EDARetailSales](./DataAnalytics-L1-EDARetailSales) | Exploratory Data Analysis on Retail Sales Data — uncovering sales trends, customer segments, and product performance insights |
 | Task 2 | [DataAnalytics-L1-CustomerSegmentation](./DataAnalytics-L1-CustomerSegmentation) | Customer Segmentation Analysis using RFM (Recency, Frequency, Monetary) features and K-Means clustering |
 | Task 3 | [DataAnalytics-L1-DataCleaning](./DataAnalytics-L1-DataCleaning) | Systematic data cleaning of a messy dataset — missing value handling, outlier treatment, standardisation, and dtype correction |
+| Task 4 | [DataAnalytics-L2-HousePricePrediction](./DataAnalytics-L2-HousePricePrediction) | Predicting House Prices with Linear Regression — including feature engineering, model evaluation, and Ridge/Lasso comparison |
 
 ## Tech Stack
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn, Jupyter Notebook
 
 ## Author
-[Ananya R Naik]
+Ananya R Naik
 
 ## Internship
 Oasis Infobyte — Data Analytics Track
